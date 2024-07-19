@@ -3,9 +3,9 @@
 This repository contains a collaborative filtering-based book recommender system built with Python Flask. The recommender system utilizes cosine similarity to suggest books based on user preferences and historical data.
 
 ## Features
-- Collaborative filtering algorithm for personalized recommendations
-- Utilizes cosine similarity for efficient book similarity calculations
-- User-friendly interface built with Flask for easy interaction
+- Collaborative filtering algorithm for personalized recommendations.
+- Utilizes cosine similarity for efficient book similarity calculations.
+- User-friendly interface built with Flask for easy interaction.
 
 ## Requirements
 - Python 3.x
@@ -27,9 +27,9 @@ This repository contains a collaborative filtering-based book recommender system
 The recommender system analyzes user book ratings and similarities between books using cosine similarity. Based on this analysis, it generates personalized recommendations for users.
 
 ## Future Improvements
-- Integration with additional data sources for broader book recommendations
-- Enhanced user interface with improved design and usability
-- Implementation of more advanced recommendation algorithms
+- Integration with additional data sources for broader book recommendations.
+- Enhanced user interface with improved design and usability.
+- Implementation of more advanced recommendation algorithms.
 
 ## Contributions
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve the project.
