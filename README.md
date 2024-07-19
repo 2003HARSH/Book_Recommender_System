@@ -33,4 +33,3 @@ The recommender system analyzes user book ratings and similarities between books
 
 ## Contributions
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve the project.
-
